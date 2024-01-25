@@ -1,0 +1,9 @@
+dada0eda7b34d8b9bd5be5685d9930b5 *DESCRIPTION
+158d41e1626c314614db731fd3b8d9c8 *NAMESPACE
+07fac9673c049d7b71d7d14550ee489b *R/Source.R
+aab1cbbcc25a49abb8025edcc369813e *README.md
+bf689758e67890bc5237d84e05bb7567 *inst/extdata/bam_input.csv
+0bac5d292ed444362d78b7c9b4a48f7c *inst/extdata/calls.vcf
+85766890945f0af61eaffa34ea7688cf *inst/extdata/regions.bed
+773dd98fef3d9691a2e883a524e96001 *man/get_LFDRs.Rd
+c6b47fd680db7d09127c6b851c72bb49 *man/get_LFDRs_given_caller.Rd
